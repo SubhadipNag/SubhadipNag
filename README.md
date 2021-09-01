@@ -53,7 +53,7 @@
 ## GitHub Statistics:
 <p align="center"><img alt="Stats"src="https://github-readme-stats.vercel.app/api?username=SubhadipNag&show_icons=true&count_private=true&theme=tokyonight">
 <img alt="Languages"src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadipNag&show_icons=true&count_private=true&theme=dark"></p>
-<p align="center"><img alt="Streak-stats"src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadipNag&show_icons=true&count_private=true&theme="></p>
+<p align="center"><img alt="Streak-stats"src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadipNag&show_icons=true&count_private=true&theme=tokyonight"></p>
 
 
 <p align='center'>
