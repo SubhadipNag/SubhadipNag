@@ -5,7 +5,7 @@
 
 <strong><p align="center">I'm a Student of Bechelor's in Computer Science of Triveni Devi Bhalotia College, Raniganj. <br>CyberSecurity Enthusiast || CTF Player || Bug Hunter || In the top 3% on TryHackMe <br>Learning about <b>Information Security, Vulnerability Assessment,  Penetration Testing and Bug Hunting.<br> I'm also a <i>Certified API-Security-Architect</i> from API Academy.</p></strong>
 
-<p align="center"><img src="https://i.ibb.co/k0qw63R/Try-Hack-Me-Subhadip-Nag.png" alt="Try-Hack-Me-Subhadip-Nag" border="0"></p>
+<p align="center"><img src="https://i.ibb.co/k0qw63R/Try-Hack-Me-Subhadip-Nag.png" alt="TryHackMe-Subhadip-Nag" border="0"></p>
   
   
   - 🔭 I’m currently seeking Internship.
