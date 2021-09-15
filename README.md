@@ -1,4 +1,4 @@
-<!--<img src="https://komarev.com/ghpvc/?username=SubhadipNag&amp;color=yellow&amp;style=flat-square" style="max-width:100%;">-->
+<img src="https://emojis.slackmojis.com/emojis/images/1620889951/38625/welcome.gif?1620889951" style="max-width:100%;">
 <h1 align="center">Hii there! I'm Subhadip Nag <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" width="35"> <br> Nice to meet you!</h1>
 
 ## Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371" width="25">
