@@ -11,6 +11,7 @@
   - 🔭 I’m currently seeking Internship.
   - 🌱 Learning about CyberSecurity, Vulnerability assessment/management, Penetration Testing and Bug Bounty Hunting.
   - 😄 Languages i know well: Bengali / English / Hindi.
+  - 😊 Bug Hunter in Hackerone || Bugcrowd || Vulnerability Disclosure Programs
   
 <!-- Social Media setion-->
 ## We can connect over: 
@@ -24,8 +25,8 @@
    <img alt="GIF" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b7611d3775f9436edbffca9aed4e3686ab3873a313e5e&rid=giphy.gif&ct=g" style="max-width:100%;" width="330" height="290" align="right">
 
 <!-- Skils section-->
-## Skills i have:
-* Linux | Parrot Security OS
+## Skills I have:                
+* Linux | Parrot Security OS || Ubuntu 
 * Burp Suite                  
 * Nmap
 * Metasploit
@@ -39,10 +40,11 @@
 
 <!-- Achievement section----->
 ## Achievement:
- * Achieved Top <a href="https://ibb.co/hVd4K7R">1 Hacker</a> in Independent Disclosures – CXSecurity (July 2021)
+ * Achieved Top <a href="https://ibb.co/hVd4K7R">1 Hacker</a> in Independent Disclosures – 𝐂𝐗-𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 (July 2021)
+ * Archieved <mark class="marking">ℍ𝔸𝕃𝕃 𝕆𝔽 𝔽𝔸𝕄𝔼</mark> from <a href="https://www.inflectra.com/Company/Responsible-Disclosure.aspx">Inflectra</a> to Secure them for Vulnerabilities.
 
 ## Common Vulnerability Exposures / Exploit Disclosures (July 2021):
-   * Exploit - 1  |  Exploit - 2 |  Exploit - 3 | Exploit - 4 | Exploit - 5
+   * <a href="https://www.exploit-db.com/exploits/50089">Exploit - 1</a>  |  <a href="https://www.exploit-db.com/exploits/50112">Exploit - 2</a> |  <a href="https://www.exploit-db.com/exploits/50117">Exploit - 3</a> | <a href="https://cxsecurity.com/issue/WLB-2021070091">Exploit - 4</a> | <a href="https://www.exploit-db.com/exploits/50121">Exploit - 5</a>
 
 
 ## Languages I know:
