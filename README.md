@@ -1,6 +1,5 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1620889951/38625/welcome.gif?1620889951" style="max-width:100%;">
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=SubhadipNag&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">Hii there! I'm Subhadip Nag <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" width="35"> <br> Nice to meet you!</h1>
 
 ## Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371" width="25">
@@ -52,20 +51,49 @@
 ## Common Vulnerability Exposures / Exploit Disclosures (July 2021):
    * <a href="https://www.exploit-db.com/exploits/50089">Exploit - 1</a>  |  <a href="https://www.exploit-db.com/exploits/50112">Exploit - 2</a> |  <a href="https://www.exploit-db.com/exploits/50117">Exploit - 3</a> | <a href="https://cxsecurity.com/issue/WLB-2021070091">Exploit - 4</a> | <a href="https://www.exploit-db.com/exploits/50121">Exploit - 5</a>
 
+
 <!-- Languages and tools section-->
 ## Languages:
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"> <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"> <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="30"> <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30"> <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="30"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30"> 
 
-<!-- Repository's stats section-->
 
+<!-- Repository's stats section-->
+## GitHub Statistics:
+<details>
+  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Subhadip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SubhadipNag&show_icons=true&count_private=true&theme=tokyonight" />
+</details>
+
+
+<details>
+  <summary>:zap: Languages</summary>
+<img align="left" alt="Subhadip's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadipNag&show_icons=true&count_private=true&theme=dark"/>
+</details>
+
+
+<details>
+  <summary>:zap: Streak-stats</summary>
+<img align="left" alt="Subhadip's GitHub Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadipNag&show_icons=true&count_private=true&theme=tokyonight" />
+</details>
+
+
+<details>
+  <summary>:zap: Git-Trophy-stats</summary>
+<img align="left" alt="Subhadip's GitHub Trophy-stats" src="https://github-profile-trophy.vercel.app/?username=SubhadipNag&row=1&show_icons=true&count_private=true&theme=dark" />
+</details>
+
+<!--
 ## GitHub Statistics:
 <p align="center"><img alt="Stats"src="https://github-readme-stats.vercel.app/api?username=SubhadipNag&show_icons=true&count_private=true&theme=tokyonight">
 <img alt="Languages"src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadipNag&show_icons=true&count_private=true&theme=dark"></p>
 <p align="center"><img alt="Streak-stats"src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadipNag&show_icons=true&count_private=true&theme=tokyonight"></p>
+-->
+
+
 
 
 <p align='center'>
-  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=SubhadipNag.visitor-badge">
+  <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=SubhadipNag.visitor-badge">
 <p/>
 
 
