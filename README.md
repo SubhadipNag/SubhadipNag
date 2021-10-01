@@ -3,15 +3,20 @@
 
 ## Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371" width="25">
 
-<strong><p align="center">I'm a Student of Bechelor's in Computer Science of Triveni Devi Bhalotia College, Raniganj. <br>CyberSecurity Enthusiast || CTF Player || Bug Hunter || In the top 3% on TryHackMe <br>Learning about <b>Information Security, Vulnerability Assessment,  Penetration Testing and Bug Hunting.<br><i>Certified API-Security-Architect</i> from API Academy.</p></strong>
+<strong><p align="center">I'm a Student of Bechelor's in Computer Science of Triveni Devi Bhalotia College, Raniganj. <br>CyberSecurity Enthusiast || CTF Player || Bug Hunter || In the top 2% on TryHackMe <br>Learning about <b>Information Security, Cybersecurity, Vulnerability Assessment, Penetration Testing and Bug Hunting.<br><i>Certified API-Security-Architect</i> from API Academy.</p></strong>
 
 <!--<p align="center"><img src="https://i.ibb.co/k0qw63R/Try-Hack-Me-Subhadip-Nag.png" alt="TryHackMe-Subhadip-Nag" border="0"></p>-->
+
+  [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=SubhadipNag&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
-  
-  - 🔭 I’m currently seeking Internship.
+  - 🔭 Penetration Testing intern at Virtual Testing Foundation (VTF).
   - 🌱 Learning about CyberSecurity, Vulnerability assessment/management, Penetration Testing and Bug Bounty Hunting.
   - 😄 Languages i know well: Bengali / English / Hindi.
-  - 😊 Bug Hunter in Hackerone || Bugcrowd || Vulnerability Disclosure Programs
+  - 😊 Bug Hunter in Hackerone || Bugcrowd || Vulnerability Disclosure Programs 
+  - 🏸 Playing Badminton is my Hobbie.
+  - 😉 Pronouns : He/His
+  - 🤔 We can connect over : <a href="https://www.linkedin.com/in/subhadip-nag-09/">Linkedin</a>, <a href="https://twitter.com/mrl0s3r_09">Twitter</a>, <a href="https://www.instagram.com/subhadip_nag_09/">Instagram</a>.
+  - 😁 Fun Fact about me : I'm not funny (▀̿Ĺ̯▀̿ ̿)
   
 <!-- Social Media setion-->
 ## We can connect over: 
@@ -46,8 +51,8 @@
 ## Common Vulnerability Exposures / Exploit Disclosures (July 2021):
    * <a href="https://www.exploit-db.com/exploits/50089">Exploit - 1</a>  |  <a href="https://www.exploit-db.com/exploits/50112">Exploit - 2</a> |  <a href="https://www.exploit-db.com/exploits/50117">Exploit - 3</a> | <a href="https://cxsecurity.com/issue/WLB-2021070091">Exploit - 4</a> | <a href="https://www.exploit-db.com/exploits/50121">Exploit - 5</a>
 
-
-## Languages I know:
+<!-- Languages and tools section-->
+## Languages:
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"> <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"> <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="30"> <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30"> <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="30"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30"> 
 
 <!-- Repository's stats section-->
