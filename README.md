@@ -63,23 +63,23 @@
   <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Subhadip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SubhadipNag&show_icons=true&count_private=true&theme=tokyonight" />
 </details>
-
+<br>
 
 <details>
   <summary>:zap: Languages</summary>
 <img align="left" alt="Subhadip's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadipNag&show_icons=true&count_private=true&theme=dark"/>
 </details>
 
-
+<br>
 <details>
   <summary>:zap: Streak-stats</summary>
 <img align="left" alt="Subhadip's GitHub Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadipNag&show_icons=true&count_private=true&theme=tokyonight" />
 </details>
-
+<br>
 
 <details>
   <summary>:zap: Git-Trophy-stats</summary>
-<img align="left" alt="Subhadip's GitHub Trophy-stats" src="https://github-profile-trophy.vercel.app/?username=SubhadipNag&row=1&show_icons=true&count_private=true&theme=dark" />
+<img align="right" alt="Subhadip's GitHub Trophy-stats" src="https://github-profile-trophy.vercel.app/?username=SubhadipNag&row=1&show_icons=true&count_private=true&theme=dark" />
 </details>
 
 <!--
@@ -93,7 +93,7 @@
 
 
 <p align='center'>
-  <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=SubhadipNag.visitor-badge">
+  <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=SubhadipNag.visitor-badge">
 <p/>
 
 
