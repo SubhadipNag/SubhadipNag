@@ -12,9 +12,9 @@
   
   - 😎 Certified <a href="https://learnupon.s3.eu-west-1.amazonaws.com/badges/117225/badge/Badge-SecArch.png">API-Security-Architect</a> (API-Academy)
   - 😌 Network Security Associate - <a href="https://training.fortinet.com/badges/badge.php?hash=5958ec7b642609ddb5e60ac8481145b0a31c8575">NSE-1</a>
-  - 🔭 Penetration Testing intern at Virtual Testing Foundation (VTF).
-  - 🌱 Learning about CyberSecurity, Vulnerability assessment/management, Penetration Testing and Bug Bounty Hunting.
-  - 😄 Languages i know well: Bengali / English / Hindi.
+  - 🔭 Successfully Completed 10-weeks Penetration Testing Internship From Virtually Testing Foundation.
+  - 🌱 Learning about CyberSecurity, Information Security, Vulnerability assessment/management, Penetration Testing and Bug Bounty Hunting.
+  - 😄 Languages i know well: Bengali | English | Hindi.
   - 😊 CTF Player in <a href="https://tryhackme.com/p/SubhadipNag">𝐓𝐫𝐲𝐇𝐚𝐜𝐤𝐌𝐞</a> & HackTheBox.
   - 🏸 Hoobies : Badminton Playing || Bug Hunting || Gaming ||  
   - 😉 Pronouns : He/His
