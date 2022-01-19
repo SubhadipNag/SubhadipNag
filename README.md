@@ -1,24 +1,36 @@
+<!-- Welcome Secion-->
+<h3 align="center">
+  𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐒𝐮𝐛𝐡𝐚𝐝𝐢𝐩 𝐍𝐚𝐠'𝐬 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371" width="25">
+</h3>
+
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber-Security%20Enthusiast;Penetration%20Tester%20%7C%20CTF%20Player%20;Bug%20Hunter%20%7C%20WebApp%20Security;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=40&color=7ef75c&vCenter=true&size=23"></a>
+</p>
+
+
 <img src="https://emojis.slackmojis.com/emojis/images/1620889951/38625/welcome.gif?1620889951" style="max-width:100%;">
 <h1 align="center">𝐇𝐢𝐢 𝐭𝐡𝐞𝐫𝐞! 𝐈'𝐦 𝐒𝐮𝐛𝐡𝐚𝐝𝐢𝐩 𝐍𝐚𝐠 <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" width="35"> <br>𝐍𝐢𝐜𝐞 𝐭𝐨 𝐦𝐞𝐞𝐭 𝐲𝐨𝐮!</h1>
 
 
-## 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕒𝕘𝕖 <img src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371" width="25">
+## Describing Myself 😎 
 
 
 <strong><p align="left">𝐌𝐲𝐬𝐞𝐥𝐟, 𝐒𝐮𝐛𝐡𝐚𝐝𝐢𝐩 𝐍𝐚𝐠, 𝐚 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐨𝐟 𝐁𝐞𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐨𝐟 𝐓𝐫𝐢𝐯𝐞𝐧𝐢 𝐃𝐞𝐯𝐢 𝐁𝐡𝐚𝐥𝐨𝐭𝐢𝐚 𝐂𝐨𝐥𝐥𝐞𝐠𝐞, 𝐑𝐚𝐧𝐢𝐠𝐚𝐧𝐣.<br>𝐈'𝐦 𝐚 𝐤𝐞𝐞𝐧 𝐂𝐲𝐛𝐞𝐫𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 || 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 || 𝐂𝐓𝐅 𝐏𝐥𝐚𝐲𝐞𝐫 || 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐞𝐫 || 𝐁𝐮𝐠 𝐇𝐮𝐧𝐭𝐞𝐫.<br>𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐛𝐨𝐮𝐭 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲, 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲, 𝐖𝐞𝐛 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 (𝐖𝐀𝐏𝐓) 𝐚𝐧𝐝 𝐁𝐮𝐠 𝐇𝐮𝐧𝐭𝐢𝐧𝐠.</p></strong>
 
 <!--<p align="center"><img src="https://i.ibb.co/k0qw63R/Try-Hack-Me-Subhadip-Nag.png" alt="TryHackMe-Subhadip-Nag" border="0"></p>-->
 
-  
+<!-- Myself Information -->
   - 😎 Certified <a href="https://learnupon.s3.eu-west-1.amazonaws.com/badges/117225/badge/Badge-SecArch.png">API-Security-Architect</a> (API-Academy)
   - 😌 Network Security Associate - <a href="https://training.fortinet.com/badges/badge.php?hash=5958ec7b642609ddb5e60ac8481145b0a31c8575">NSE-1</a>
   - 🔭 Successfully Completed 10-weeks Penetration Testing Internship From Virtually Testing Foundation.
   - 🌱 Learning about CyberSecurity, Information Security, Vulnerability assessment/management, Penetration Testing and Bug Bounty Hunting.
   - 😄 Languages i know well: Bengali | English | Hindi.
-  - 😊 CTF Player in <a href="https://tryhackme.com/p/SubhadipNag">𝐓𝐫𝐲𝐇𝐚𝐜𝐤𝐌𝐞</a> & HackTheBox.
+  - 😊 CTF Player in <a href="https://tryhackme.com/p/MrL0s3r">𝐓𝐫𝐲𝐇𝐚𝐜𝐤𝐌𝐞</a> & HackTheBox.
   - 🏸 Hoobies : Badminton Playing || Bug Hunting || Gaming ||  
   - 😉 Pronouns : He/His
-  - 🤔 We can connect over : <a href="https://www.linkedin.com/in/subhadip-nag-09/">Linkedin</a>, <a href="https://twitter.com/mrl0s3r_09">Twitter</a>, <a href="https://www.instagram.com/subhadip_nag_09/">Instagram</a>.
+  - 🤔 Connect over : <a href="https://www.linkedin.com/in/subhadip-nag-09/">Linkedin</a>, <a href="https://twitter.com/mrl0s3r_09">Twitter</a>, <a href="https://www.instagram.com/subhadip_nag_09/">Instagram</a> <a href="https://www.facebook.com/subhadip.nag.09">Facebook</a>.
   - 😁 Fun Fact about me : I'm not funny (▀̿Ĺ̯▀̿ ̿)
   
 <!-- Social Media setion-->
@@ -26,6 +38,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/subhadip-nag-09/)](https://www.linkedin.com/in/subhadip-nag-09/)
 [![GitHub:Subhadip Nag](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SubhadipNag)
 [![Twitter: Subhadip Nag](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrl0s3r_09)
+<a href="https://www.facebook.com/subhadip.nag.09"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 [![Instagram: Subhadip Nag](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subhadip_nag_09/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infernotez0@gmail.com)
 <img alt="GIF" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b7611d3775f9436edbffca9aed4e3686ab3873a313e5e&rid=giphy.gif&ct=g" style="max-width:100%;" width="330" height="290" align="right">
@@ -84,6 +97,10 @@
 <img align="right" alt="Subhadip's GitHub Trophy-stats" src="https://github-profile-trophy.vercel.app/?username=SubhadipNag&row=1&show_icons=true&count_private=true&theme=dark" />
 </details>
 
+[![Subhadip's github activity graph](https://activity-graph.herokuapp.com/graph?username=SubhadipNag&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <!--
 ## GitHub Statistics:
 <p align="center"><img alt="Stats"src="https://github-readme-stats.vercel.app/api?username=SubhadipNag&show_icons=true&count_private=true&theme=tokyonight">
@@ -97,5 +114,14 @@
 <p align='center'>
   <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=SubhadipNag.visitor-badge">
 <p/>
+
+
+
+
+
+
+
+
+
 
 
