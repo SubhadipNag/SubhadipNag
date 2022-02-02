@@ -1,7 +1,7 @@
 <!-- Welcome Secion-->
 <h3 align="center">
   𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐒𝐮𝐛𝐡𝐚𝐝𝐢𝐩 𝐍𝐚𝐠'𝐬 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371" width="25">
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371" width="25">
 </h3>
 
 <!-- Typing SVG -->
@@ -10,7 +10,7 @@
 </p>
 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1620889951/38625/welcome.gif?1620889951" style="max-width:100%;">
+<!-- <img src="https://emojis.slackmojis.com/emojis/images/1620889951/38625/welcome.gif?1620889951" style="max-width:100%;"> -->
 <h1 align="center">𝐇𝐢𝐢 𝐭𝐡𝐞𝐫𝐞! 𝐈'𝐦 𝐒𝐮𝐛𝐡𝐚𝐝𝐢𝐩 𝐍𝐚𝐠 <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" width="35"> <br>𝐍𝐢𝐜𝐞 𝐭𝐨 𝐦𝐞𝐞𝐭 𝐲𝐨𝐮!</h1>
 
 
