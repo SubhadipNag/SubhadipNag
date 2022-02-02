@@ -99,8 +99,10 @@
 <img align="right" alt="Subhadip's GitHub Trophy-stats" src="https://github-profile-trophy.vercel.app/?username=SubhadipNag&row=1&show_icons=true&count_private=true&theme=dark" />
 </details>
 
-[![Subhadip's github activity graph](https://activity-graph.herokuapp.com/graph?username=SubhadipNag&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<details>
+  <summary>GitHub Activity Graph</summary>
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhadipNag&theme=chartreuse-dark&row=1&show_icon=true&count_private=true" />
+</details>
 
 
 <!--
