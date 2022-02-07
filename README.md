@@ -6,7 +6,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber-Security%20Enthusiast;Penetration%20Tester%20%7C%20CTF%20Player%20;Bug%20Hunter%20%7C%20WebApp%20Security;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=40&color=7ef75c&vCenter=true&size=23"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber-Security%20Enthusiast;Penetration%20Tester%20%7C%20CTF%20Player%20;Bug%20Hunter%20%7C%20WebApp%20Security;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=40&color=49C628&vCenter=true&size=23"></a>
 </p>
 
 
