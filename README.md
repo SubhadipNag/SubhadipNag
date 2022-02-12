@@ -64,6 +64,9 @@
  * Achieved Top <a href="https://ibb.co/hVd4K7R">1 Hacker</a> in Independent Disclosures – 𝐂𝐗-𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 (July 2021)
  * Archieved <mark class="marking">ℍ𝔸𝕃𝕃 𝕆𝔽 𝔽𝔸𝕄𝔼</mark> from <a href="https://www.inflectra.com/Company/Responsible-Disclosure.aspx">Inflectra</a> to Secure them for Vulnerabilities.
  * Get Bug Bounty Hunting Book from Google.
+ * I'm in the TOP 1% in TryHackme
+ <img src="https://tryhackme-badges.s3.amazonaws.com/MrL0s3r.png" alt="TryHackMe">
+ 
 
 ## ℂ𝕠𝕞𝕞𝕠𝕟 𝕍𝕦𝕝𝕟𝕖𝕣𝕒𝕓𝕚𝕝𝕚𝕥𝕪 𝔼𝕩𝕡𝕠𝕤𝕦𝕣𝕖𝕤 / 𝔼𝕩𝕡𝕝𝕠𝕚𝕥 𝔻𝕚𝕤𝕔𝕝𝕠𝕤𝕦𝕣𝕖𝕤 (𝕁𝕦𝕝𝕪 𝟚𝟘𝟚𝟙) :
    * <a href="https://www.exploit-db.com/exploits/50089">Exploit - 1</a>  |  <a href="https://www.exploit-db.com/exploits/50112">Exploit - 2</a> |  <a href="https://www.exploit-db.com/exploits/50117">Exploit - 3</a> | <a href="https://cxsecurity.com/issue/WLB-2021070091">Exploit - 4</a> | <a href="https://www.exploit-db.com/exploits/50121">Exploit - 5</a>
