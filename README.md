@@ -31,7 +31,6 @@
   - 😊 CTF Player in <a href="https://tryhackme.com/p/MrL0s3r">𝐓𝐫𝐲𝐇𝐚𝐜𝐤𝐌𝐞</a> & HackTheBox.
   - 🏸 Hoobies : Badminton Playing || Bug Hunting || Gaming ||  
   - 😉 Pronouns : He/His
-  - 🤔 Connect over : <a href="https://www.linkedin.com/in/subhadip-nag-09/">Linkedin</a>, <a href="https://twitter.com/mrl0s3r_09">Twitter</a>, <a href="https://www.instagram.com/subhadip_nag_09/">Instagram</a> <a href="https://www.facebook.com/subhadip.nag.09">Facebook</a>.
   - 😁 Fun Fact about me : I'm not funny (▀̿Ĺ̯▀̿ ̿)
   
 <!-- Social Media setion-->
