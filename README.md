@@ -24,6 +24,7 @@
 <!-- Myself Information -->
   - 😎 Certified <a href="https://learnupon.s3.eu-west-1.amazonaws.com/badges/117225/badge/Badge-SecArch.png">API-Security-Architect</a> (API-Academy)
   - 😌 Network Security Associate - <a href="https://training.fortinet.com/badges/badge.php?hash=5958ec7b642609ddb5e60ac8481145b0a31c8575">NSE-1</a>
+  - 💻 Starter a new position in Virtually Testing Foundation as a Cyber Security Engineer.
   - 🔭 Successfully Completed 10-weeks Penetration Testing Internship From Virtually Testing Foundation.
   - 🤗 Cyber Security and Digital Forensics intern at Cyber Secured India (In Progress)
   - 🌱 Learning about CyberSecurity, Information Security, Vulnerability assessment/management, Penetration Testing and Bug Bounty Hunting.
