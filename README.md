@@ -122,9 +122,6 @@
   <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=SubhadipNag.visitor-badge">
 <p/>
 
-<h2>Latest Tweets</h2>
-<p><a href="https://twitter.com/mokkapps"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=SubhadipNag&amp;layout=wide" alt="github-readme-twitter"></a></p>
-
 
 
 
