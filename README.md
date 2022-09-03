@@ -26,6 +26,7 @@
   - 😌 Network Security Associate - <a href="https://training.fortinet.com/badges/badge.php?hash=5958ec7b642609ddb5e60ac8481145b0a31c8575">NSE-1</a>
   - 💻 Successfully completed Cyber Security Engineer Intern at Virtually Testing Foundation.
   - 🔭 Successfully Completed 10-weeks Penetration Testing Internship From Virtually Testing Foundation.
+  - 💖 Started a new position Information Security Administrator Intern at Virtually Testing Foundation.
   - 🤗 Cyber Security and Digital Forensics intern at Cyber Secured India.
   - 🌱 Learning about CyberSecurity, Information Security, Vulnerability assessment/management, Penetration Testing and Bug Bounty Hunting.
   - 😄 Languages i know well: Bengali | English | Hindi.
