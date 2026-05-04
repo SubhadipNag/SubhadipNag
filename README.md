@@ -17,7 +17,19 @@
 ## Hey!! It's Me😎 
 
 
-<strong><p align="left">𝐌𝐲𝐬𝐞𝐥𝐟, 𝐒𝐮𝐛𝐡𝐚𝐝𝐢𝐩 𝐍𝐚𝐠, 𝐚 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐨𝐟 𝐁𝐞𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐨𝐟 𝐓𝐫𝐢𝐯𝐞𝐧𝐢 𝐃𝐞𝐯𝐢 𝐁𝐡𝐚𝐥𝐨𝐭𝐢𝐚 𝐂𝐨𝐥𝐥𝐞𝐠𝐞, 𝐑𝐚𝐧𝐢𝐠𝐚𝐧𝐣.<br>𝐈'𝐦 𝐚 𝐤𝐞𝐞𝐧 𝐂𝐲𝐛𝐞𝐫𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 || 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 || 𝐂𝐓𝐅 𝐏𝐥𝐚𝐲𝐞𝐫 || 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐞𝐫 || 𝐁𝐮𝐠 𝐇𝐮𝐧𝐭𝐞𝐫.<br>𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐛𝐨𝐮𝐭 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲, 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲, 𝐖𝐞𝐛 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 (𝐖𝐀𝐏𝐓) || 𝗩𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝗲𝘀𝘀𝗺𝗲𝗻𝘁 𝗮𝗻𝗱 𝗣𝗲𝗻𝗲𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 (𝗩𝗔𝗣𝗧) || 𝐚𝐧𝐝 𝐁𝐮𝐠 𝐇𝐮𝐧𝐭𝐢𝐧𝐠.</p></strong>
+<strong><p align="left">As a dedicated Network Engineer L2 at Wipro, I am passionate about building, securing, and optimizing robust IT infrastructures, With a solid foundation in Computer Science and hands-on experience in network design, security, and troubleshooting, I thrive on solving complex 
+challenges in enterprise environments.
+
+Recognized as top 1% on TryHackMe worldwide, demonstrating my drive for continuous learning and real-world cybersecurity skills. 
+My experience in Security management, Penetration Testing and Cisco networking, underpinned by industry certifications including Cisco BlackBelt, 
+Microsoft Azure AI Engineer Associate, and Google Cloud specializations.
+
+Beyond my core role, I actively participate in Capture the Flag competitions and bug bounty programs, keeping my skills sharp and up-to-date with 
+the latest security trends.
+
+I am always eager to connect with fellow professionals, collaborate on innovative projects, or discuss the evolving landscape of cybersecurity and networking.
+
+Feel free to reach out!</p></strong>
 
 <!--<p align="center"><img src="https://i.ibb.co/k0qw63R/Try-Hack-Me-Subhadip-Nag.png" alt="TryHackMe-Subhadip-Nag" border="0"></p>-->
 
@@ -28,8 +40,7 @@
   - 😄 Languages i know well: Bengali | English | Hindi.
   - 😊 CTF Player in <a href="https://tryhackme.com/p/MrL0s3r">𝐓𝐫𝐲𝐇𝐚𝐜𝐤𝐌𝐞</a> & HackTheBox.
   - 🏸 Hoobies : Badminton Playing || Bug Hunting || Gaming ||  
-  - 😉 Pronouns : He/His
-  - 😁 Fun Fact about me : I'm not funny (▀̿Ĺ̯▀̿ ̿)
+  - 😉 Pronouns : He/Him
   
 <!-- Social Media setion-->
 ## 𝕎𝕖 𝕔𝕒𝕟 𝕔𝕠𝕟𝕟𝕖𝕔𝕥 𝕠𝕧𝕖𝕣: 
