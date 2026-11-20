@@ -68,12 +68,15 @@ Feel free to reach out!</p></strong>
 * Netcat
 * WireShark
 * Dirbuster
-* DBMS |SQL | PL/SQL 
+* DBMS |SQL | PL/SQL
+* Cisco | GNS3
+* Azure X3 | AWS x2 | GCP
+* Network Engineering, Troubleshooting, Design, Deployment and so on.
 
 <!-- Achievement section----->
 ## 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥 :
  * Achieved Top <a href="https://ibb.co/hVd4K7R">1 Hacker</a> in Independent Disclosures – 𝐂𝐗-𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 (July 2021)
- * Archieved <mark class="marking">ℍ𝔸𝕃𝕃 𝕆𝔽 𝔽𝔸𝕄𝔼</mark> from <a href="https://www.inflectra.com/Company/Responsible-Disclosure.aspx">Inflectra</a> to Secure them for Vulnerabilities.
+ * Archieved <mark class="marking">ℍ𝔸𝕃𝕃 𝕆𝔽 𝔽𝔸𝕄𝔼</mark> from <a href="https://www.inflectra.com/Company/Responsible-Disclosure.aspx">Inflectra</a> to Secure them.
  * Get Bug Bounty Hunting Book from Google.
  * I'm in the TOP 1% in TryHackme
  <img src="https://tryhackme-badges.s3.amazonaws.com/MrL0s3r.png" alt="TryHackMe">
